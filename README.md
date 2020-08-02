@@ -1,0 +1,1 @@
+# Cost-function-and-Gradient-Descent-Simplified
